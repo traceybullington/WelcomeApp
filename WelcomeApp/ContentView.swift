@@ -26,7 +26,6 @@ struct ContentView: View {
             .tint(.purple)
         }
         .padding()
-        .padding()
     }
 }
 
